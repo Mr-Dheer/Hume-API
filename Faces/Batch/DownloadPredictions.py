@@ -1,4 +1,4 @@
-
+import json
 from hume import HumeBatchClient
 from hume.models.config import FaceConfig
 
@@ -16,19 +16,23 @@ details= job.await_complete()
 job.download_predictions('PredictionsCorrectDataSet.json')
 print('PredictionsCorrectDataSet Downloaded')
 
-import json
+
 
 # Load the JSON data
 file_path = 'PredictionsCorrectDataSet.json'
 with open(file_path, 'r') as file:
     data = json.load(file)
 
-# Prepare to store the results
+# Prepare to store the results and errors
 results = []
 
 # Loop through each prediction
 for prediction in data[0]['results']['predictions']:
     file_name = prediction['file']
+    prediction_result = {
+        'file': file_name,
+        'top_emotions': []
+    }
     
     # Check if grouped_predictions exist and are not empty
     if 'grouped_predictions' in prediction['models']['face'] and prediction['models']['face']['grouped_predictions']:
@@ -40,26 +44,28 @@ for prediction in data[0]['results']['predictions']:
         # Get the top 3 emotions
         top_3_emotions = sorted_emotions[:3]
         
-        # Prepare data for each prediction
-        prediction_result = {
-            'file': file_name,
-            'top_emotions': [{'name': emotion['name'], 'score': emotion['score']} for emotion in top_3_emotions]
-        }
-        
-        # Append to results list
-        results.append(prediction_result)
+        # Check if top 3 emotions are empty
+        if not top_3_emotions:
+            # Add error message
+            prediction_result['error_message'] = f"No emotions detected for image: {file_name}"
+            print(f"Error: No emotions detected for image: {file_name}")
+        else:
+            # Prepare data for each prediction
+            prediction_result['top_emotions'] = [{'name': emotion['name'], 'score': emotion['score']} for emotion in top_3_emotions]
     else:
-        # Handle the case where grouped_predictions are empty or not as expected
-        results.append({
-            'file': file_name,
-            'top_emotions': []
-        })
-        print(f"Issue with image: {file_name}")
+        # Add error message
+        prediction_result['error_message'] = f"Issue with image: {file_name}"
+        print(f"Error: Issue with image: {file_name}")
+
+    # Append the result (including potential error_message) to results list
+    results.append(prediction_result)
 
 # Write results to a new JSON file
-output_file_path = 'EeValaSahiHai.json'
+output_file_path = 'AakhriHai-2.json'
 with open(output_file_path, 'w') as output_file:
     json.dump(results, output_file, indent=2)
 
-print(f"Top emotions data written to '{output_file_path}'.")
+print(f"Results (including errors) written to '{output_file_path}'.")
+
+
 
