@@ -1,0 +1,1793 @@
+[
+  {
+    "file": "Neutral/21.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.581487774848938
+      },
+      {
+        "name": "Concentration",
+        "score": 0.557776927947998
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5248748660087585
+      }
+    ]
+  },
+  {
+    "file": "Neutral/87.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5039477944374084
+      },
+      {
+        "name": "Pain",
+        "score": 0.371343731880188
+      },
+      {
+        "name": "Disgust",
+        "score": 0.3615323305130005
+      }
+    ]
+  },
+  {
+    "file": "Neutral/58.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5092121958732605
+      },
+      {
+        "name": "Concentration",
+        "score": 0.506837010383606
+      },
+      {
+        "name": "Boredom",
+        "score": 0.49298614263534546
+      }
+    ]
+  },
+  {
+    "file": "Neutral/89.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5387387871742249
+      },
+      {
+        "name": "Disgust",
+        "score": 0.38663649559020996
+      },
+      {
+        "name": "Distress",
+        "score": 0.35440775752067566
+      }
+    ]
+  },
+  {
+    "file": "Neutral/62.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.7452535629272461
+      },
+      {
+        "name": "Concentration",
+        "score": 0.6191554665565491
+      },
+      {
+        "name": "Boredom",
+        "score": 0.600716233253479
+      }
+    ]
+  },
+  {
+    "file": "Neutral/53.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.6385489702224731
+      },
+      {
+        "name": "Confusion",
+        "score": 0.5313241481781006
+      },
+      {
+        "name": "Calmness",
+        "score": 0.48039188981056213
+      }
+    ]
+  },
+  {
+    "file": "Neutral/31.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5017628073692322
+      },
+      {
+        "name": "Boredom",
+        "score": 0.44530290365219116
+      },
+      {
+        "name": "Confusion",
+        "score": 0.44079989194869995
+      }
+    ]
+  },
+  {
+    "file": "Neutral/93.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5944229364395142
+      },
+      {
+        "name": "Calmness",
+        "score": 0.549049437046051
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4991338849067688
+      }
+    ]
+  },
+  {
+    "file": "Neutral/48.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6471113562583923
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4839943051338196
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.39389508962631226
+      }
+    ]
+  },
+  {
+    "file": "Neutral/47.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.49510458111763
+      },
+      {
+        "name": "Disgust",
+        "score": 0.3381648063659668
+      },
+      {
+        "name": "Distress",
+        "score": 0.33669307827949524
+      }
+    ]
+  },
+  {
+    "file": "Neutral/26.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4670981168746948
+      },
+      {
+        "name": "Calmness",
+        "score": 0.39577239751815796
+      },
+      {
+        "name": "Doubt",
+        "score": 0.380918949842453
+      }
+    ]
+  },
+  {
+    "file": "Neutral/22.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5200422406196594
+      },
+      {
+        "name": "Concentration",
+        "score": 0.49052074551582336
+      },
+      {
+        "name": "Calmness",
+        "score": 0.39571869373321533
+      }
+    ]
+  },
+  {
+    "file": "Neutral/32.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.6292644143104553
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5244979858398438
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5079877376556396
+      }
+    ]
+  },
+  {
+    "file": "Neutral/79.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5674564242362976
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4210284352302551
+      },
+      {
+        "name": "Calmness",
+        "score": 0.40688425302505493
+      }
+    ]
+  },
+  {
+    "file": "Neutral/9.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.49762970209121704
+      },
+      {
+        "name": "Confusion",
+        "score": 0.42587214708328247
+      },
+      {
+        "name": "Concentration",
+        "score": 0.40424302220344543
+      }
+    ]
+  },
+  {
+    "file": "Neutral/7.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.42080509662628174
+      },
+      {
+        "name": "Amusement",
+        "score": 0.4200524389743805
+      },
+      {
+        "name": "Joy",
+        "score": 0.3885881006717682
+      }
+    ]
+  },
+  {
+    "file": "Neutral/1.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6945494413375854
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5330743789672852
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4972175061702728
+      }
+    ]
+  },
+  {
+    "file": "Neutral/16.png",
+    "top_emotions": [
+      {
+        "name": "Boredom",
+        "score": 0.5154932737350464
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5048832893371582
+      },
+      {
+        "name": "Calmness",
+        "score": 0.4675087630748749
+      }
+    ]
+  },
+  {
+    "file": "Neutral/98.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5491170883178711
+      },
+      {
+        "name": "Confusion",
+        "score": 0.5164605975151062
+      },
+      {
+        "name": "Interest",
+        "score": 0.4023888409137726
+      }
+    ]
+  },
+  {
+    "file": "Neutral/94.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.7360519766807556
+      },
+      {
+        "name": "Concentration",
+        "score": 0.6509631276130676
+      },
+      {
+        "name": "Boredom",
+        "score": 0.6055801510810852
+      }
+    ]
+  },
+  {
+    "file": "Neutral/29.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.49594464898109436
+      },
+      {
+        "name": "Calmness",
+        "score": 0.4730459153652191
+      },
+      {
+        "name": "Concentration",
+        "score": 0.46430090069770813
+      }
+    ]
+  },
+  {
+    "file": "Neutral/34.png",
+    "top_emotions": [
+      {
+        "name": "Amusement",
+        "score": 0.541900634765625
+      },
+      {
+        "name": "Joy",
+        "score": 0.5196178555488586
+      },
+      {
+        "name": "Interest",
+        "score": 0.49135085940361023
+      }
+    ]
+  },
+  {
+    "file": "Neutral/55.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5967211127281189
+      },
+      {
+        "name": "Interest",
+        "score": 0.5115458965301514
+      },
+      {
+        "name": "Amusement",
+        "score": 0.44908854365348816
+      }
+    ]
+  },
+  {
+    "file": "Neutral/42.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5408445596694946
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.4178929626941681
+      },
+      {
+        "name": "Doubt",
+        "score": 0.40503278374671936
+      }
+    ]
+  },
+  {
+    "file": "Neutral/3.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5248467922210693
+      },
+      {
+        "name": "Concentration",
+        "score": 0.43539509177207947
+      },
+      {
+        "name": "Doubt",
+        "score": 0.37661150097846985
+      }
+    ]
+  },
+  {
+    "file": "Neutral/10.png",
+    "top_emotions": [
+      {
+        "name": "Disappointment",
+        "score": 0.5099761486053467
+      },
+      {
+        "name": "Confusion",
+        "score": 0.45220649242401123
+      },
+      {
+        "name": "Tiredness",
+        "score": 0.39979279041290283
+      }
+    ]
+  },
+  {
+    "file": "Neutral/20.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.4510773718357086
+      },
+      {
+        "name": "Concentration",
+        "score": 0.38777604699134827
+      },
+      {
+        "name": "Awe",
+        "score": 0.37757164239883423
+      }
+    ]
+  },
+  {
+    "file": "Neutral/57.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.4192293584346771
+      },
+      {
+        "name": "Concentration",
+        "score": 0.3423864245414734
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.3096172511577606
+      }
+    ]
+  },
+  {
+    "file": "Neutral/33.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5098428726196289
+      },
+      {
+        "name": "Doubt",
+        "score": 0.44152185320854187
+      },
+      {
+        "name": "Sadness",
+        "score": 0.3824833035469055
+      }
+    ]
+  },
+  {
+    "file": "Neutral/50.png",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/50.png"
+  },
+  {
+    "file": "Neutral/88.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5628337264060974
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5241920948028564
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4602583944797516
+      }
+    ]
+  },
+  {
+    "file": "Neutral/110.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.7874120473861694
+      },
+      {
+        "name": "Contemplation",
+        "score": 0.6477707624435425
+      },
+      {
+        "name": "Confusion",
+        "score": 0.6299784183502197
+      }
+    ]
+  },
+  {
+    "file": "Neutral/71.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5684754252433777
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5050176382064819
+      },
+      {
+        "name": "Concentration",
+        "score": 0.45028388500213623
+      }
+    ]
+  },
+  {
+    "file": "Neutral/68.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5319740176200867
+      },
+      {
+        "name": "Concentration",
+        "score": 0.47943058609962463
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4263342022895813
+      }
+    ]
+  },
+  {
+    "file": "Neutral/59.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5406962037086487
+      },
+      {
+        "name": "Awe",
+        "score": 0.49644485116004944
+      },
+      {
+        "name": "Surprise (negative)",
+        "score": 0.4233783185482025
+      }
+    ]
+  },
+  {
+    "file": "Neutral/11.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5742279887199402
+      },
+      {
+        "name": "Amusement",
+        "score": 0.46021923422813416
+      },
+      {
+        "name": "Interest",
+        "score": 0.46018901467323303
+      }
+    ]
+  },
+  {
+    "file": "Neutral/61.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5266320705413818
+      },
+      {
+        "name": "Interest",
+        "score": 0.4300774335861206
+      },
+      {
+        "name": "Concentration",
+        "score": 0.39610719680786133
+      }
+    ]
+  },
+  {
+    "file": "Neutral/86.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.627312421798706
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5154120922088623
+      },
+      {
+        "name": "Doubt",
+        "score": 0.42594435811042786
+      }
+    ]
+  },
+  {
+    "file": "Neutral/63.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.45905041694641113
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4519813060760498
+      },
+      {
+        "name": "Confusion",
+        "score": 0.4360284209251404
+      }
+    ]
+  },
+  {
+    "file": "Neutral/5.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5601382255554199
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5090595483779907
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4404955804347992
+      }
+    ]
+  },
+  {
+    "file": "Neutral/80.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.602455735206604
+      },
+      {
+        "name": "Interest",
+        "score": 0.5740156769752502
+      },
+      {
+        "name": "Amusement",
+        "score": 0.5241288542747498
+      }
+    ]
+  },
+  {
+    "file": "Neutral/8.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5623518228530884
+      },
+      {
+        "name": "Doubt",
+        "score": 0.49259257316589355
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4628148674964905
+      }
+    ]
+  },
+  {
+    "file": "Neutral/84.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.45162680745124817
+      },
+      {
+        "name": "Concentration",
+        "score": 0.39238882064819336
+      },
+      {
+        "name": "Interest",
+        "score": 0.3734321594238281
+      }
+    ]
+  },
+  {
+    "file": "Neutral/15.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.488049179315567
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4845046103000641
+      },
+      {
+        "name": "Interest",
+        "score": 0.3995511531829834
+      }
+    ]
+  },
+  {
+    "file": "Neutral/37.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5521280169487
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4633341431617737
+      },
+      {
+        "name": "Interest",
+        "score": 0.37082695960998535
+      }
+    ]
+  },
+  {
+    "file": "Neutral/40.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5227011442184448
+      },
+      {
+        "name": "Doubt",
+        "score": 0.3414357900619507
+      },
+      {
+        "name": "Concentration",
+        "score": 0.28443145751953125
+      }
+    ]
+  },
+  {
+    "file": "Neutral/24.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5567098259925842
+      },
+      {
+        "name": "Confusion",
+        "score": 0.42577889561653137
+      },
+      {
+        "name": "Calmness",
+        "score": 0.4155775308609009
+      }
+    ]
+  },
+  {
+    "file": "Neutral/30.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.7436915040016174
+      },
+      {
+        "name": "Boredom",
+        "score": 0.6658705472946167
+      },
+      {
+        "name": "Concentration",
+        "score": 0.6141987442970276
+      }
+    ]
+  },
+  {
+    "file": "Neutral/12.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5935603380203247
+      },
+      {
+        "name": "Concentration",
+        "score": 0.43186959624290466
+      },
+      {
+        "name": "Doubt",
+        "score": 0.42722034454345703
+      }
+    ]
+  },
+  {
+    "file": "Neutral/25.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.45060330629348755
+      },
+      {
+        "name": "Concentration",
+        "score": 0.42040854692459106
+      },
+      {
+        "name": "Interest",
+        "score": 0.38313019275665283
+      }
+    ]
+  },
+  {
+    "file": "Neutral/39.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.5027143955230713
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4218388497829437
+      },
+      {
+        "name": "Calmness",
+        "score": 0.37875136733055115
+      }
+    ]
+  },
+  {
+    "file": "Neutral/104.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.6192313432693481
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4428943991661072
+      },
+      {
+        "name": "Desire",
+        "score": 0.4150969684123993
+      }
+    ]
+  },
+  {
+    "file": "Neutral/96.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5245548486709595
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4443533718585968
+      },
+      {
+        "name": "Interest",
+        "score": 0.43501511216163635
+      }
+    ]
+  },
+  {
+    "file": "Neutral/14.png",
+    "top_emotions": [
+      {
+        "name": "Boredom",
+        "score": 0.6409648060798645
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5944934487342834
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5478391647338867
+      }
+    ]
+  },
+  {
+    "file": "Neutral/60.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.531036376953125
+      },
+      {
+        "name": "Confusion",
+        "score": 0.4912719428539276
+      },
+      {
+        "name": "Interest",
+        "score": 0.43014392256736755
+      }
+    ]
+  },
+  {
+    "file": "Neutral/70.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.43684497475624084
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4259757399559021
+      },
+      {
+        "name": "Interest",
+        "score": 0.41747424006462097
+      }
+    ]
+  },
+  {
+    "file": "Neutral/106.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/106.jpg"
+  },
+  {
+    "file": "Neutral/51.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5773000717163086
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5702428817749023
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5341974496841431
+      }
+    ]
+  },
+  {
+    "file": "Neutral/46.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5113733410835266
+      },
+      {
+        "name": "Calmness",
+        "score": 0.4287499189376831
+      },
+      {
+        "name": "Interest",
+        "score": 0.4010921120643616
+      }
+    ]
+  },
+  {
+    "file": "Neutral/92.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6192142367362976
+      },
+      {
+        "name": "Interest",
+        "score": 0.48396599292755127
+      },
+      {
+        "name": "Concentration",
+        "score": 0.3724476099014282
+      }
+    ]
+  },
+  {
+    "file": "Neutral/41.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5929274559020996
+      },
+      {
+        "name": "Concentration",
+        "score": 0.3984012007713318
+      },
+      {
+        "name": "Doubt",
+        "score": 0.37894290685653687
+      }
+    ]
+  },
+  {
+    "file": "Neutral/73.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.4884061813354492
+      },
+      {
+        "name": "Amusement",
+        "score": 0.4167068302631378
+      },
+      {
+        "name": "Desire",
+        "score": 0.32747697830200195
+      }
+    ]
+  },
+  {
+    "file": "Neutral/45.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6334285736083984
+      },
+      {
+        "name": "Interest",
+        "score": 0.49599453806877136
+      },
+      {
+        "name": "Amusement",
+        "score": 0.43798384070396423
+      }
+    ]
+  },
+  {
+    "file": "Neutral/54.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.5511235594749451
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5391564965248108
+      },
+      {
+        "name": "Concentration",
+        "score": 0.43386033177375793
+      }
+    ]
+  },
+  {
+    "file": "Neutral/77.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5188921093940735
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4717564880847931
+      },
+      {
+        "name": "Calmness",
+        "score": 0.45137253403663635
+      }
+    ]
+  },
+  {
+    "file": "Neutral/56.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.7529457807540894
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5426316261291504
+      },
+      {
+        "name": "Concentration",
+        "score": 0.532877504825592
+      }
+    ]
+  },
+  {
+    "file": "Neutral/97.png",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/97.png"
+  },
+  {
+    "file": "Neutral/27.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6410157084465027
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5168371200561523
+      },
+      {
+        "name": "Interest",
+        "score": 0.4437813460826874
+      }
+    ]
+  },
+  {
+    "file": "Neutral/90.png",
+    "top_emotions": [
+      {
+        "name": "Amusement",
+        "score": 0.6712618470191956
+      },
+      {
+        "name": "Joy",
+        "score": 0.65606689453125
+      },
+      {
+        "name": "Love",
+        "score": 0.45168057084083557
+      }
+    ]
+  },
+  {
+    "file": "Neutral/69.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6072337627410889
+      },
+      {
+        "name": "Concentration",
+        "score": 0.53305983543396
+      },
+      {
+        "name": "Interest",
+        "score": 0.5161432027816772
+      }
+    ]
+  },
+  {
+    "file": "Neutral/108.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/108.jpg"
+  },
+  {
+    "file": "Neutral/2.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.49763113260269165
+      },
+      {
+        "name": "Distress",
+        "score": 0.42565011978149414
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.3980425298213959
+      }
+    ]
+  },
+  {
+    "file": "Neutral/67.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6147162914276123
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5583595633506775
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4649503827095032
+      }
+    ]
+  },
+  {
+    "file": "Neutral/95.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5356282591819763
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5134506821632385
+      },
+      {
+        "name": "Boredom",
+        "score": 0.46879398822784424
+      }
+    ]
+  },
+  {
+    "file": "Neutral/83.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.3414632976055145
+      },
+      {
+        "name": "Concentration",
+        "score": 0.2549099624156952
+      },
+      {
+        "name": "Boredom",
+        "score": 0.252767413854599
+      }
+    ]
+  },
+  {
+    "file": "Neutral/105.jpg",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.45056968927383423
+      },
+      {
+        "name": "Concentration",
+        "score": 0.40742936730384827
+      },
+      {
+        "name": "Boredom",
+        "score": 0.38987284898757935
+      }
+    ]
+  },
+  {
+    "file": "Neutral/6.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5740317702293396
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4970848560333252
+      },
+      {
+        "name": "Doubt",
+        "score": 0.37194132804870605
+      }
+    ]
+  },
+  {
+    "file": "Neutral/74.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5100367665290833
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4212239682674408
+      },
+      {
+        "name": "Concentration",
+        "score": 0.3849080801010132
+      }
+    ]
+  },
+  {
+    "file": "Neutral/85.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5401765704154968
+      },
+      {
+        "name": "Confusion",
+        "score": 0.45896047353744507
+      },
+      {
+        "name": "Doubt",
+        "score": 0.423977792263031
+      }
+    ]
+  },
+  {
+    "file": "Neutral/19.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.5405107140541077
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5065099000930786
+      },
+      {
+        "name": "Amusement",
+        "score": 0.4269045293331146
+      }
+    ]
+  },
+  {
+    "file": "Neutral/49.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.4646758437156677
+      },
+      {
+        "name": "Confusion",
+        "score": 0.43318209052085876
+      },
+      {
+        "name": "Concentration",
+        "score": 0.3747209906578064
+      }
+    ]
+  },
+  {
+    "file": "Neutral/23.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.625081479549408
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4076775908470154
+      },
+      {
+        "name": "Concentration",
+        "score": 0.36930352449417114
+      }
+    ]
+  },
+  {
+    "file": "Neutral/100.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5309815406799316
+      },
+      {
+        "name": "Confusion",
+        "score": 0.4900781810283661
+      },
+      {
+        "name": "Doubt",
+        "score": 0.3878450393676758
+      }
+    ]
+  },
+  {
+    "file": "Neutral/78.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.641371488571167
+      },
+      {
+        "name": "Concentration",
+        "score": 0.49115705490112305
+      },
+      {
+        "name": "Interest",
+        "score": 0.4791385531425476
+      }
+    ]
+  },
+  {
+    "file": "Neutral/102.png",
+    "top_emotions": [
+      {
+        "name": "Boredom",
+        "score": 0.6076256632804871
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5807617902755737
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5780275464057922
+      }
+    ]
+  },
+  {
+    "file": "Neutral/4.png",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/4.png"
+  },
+  {
+    "file": "Neutral/64.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5773454904556274
+      },
+      {
+        "name": "Interest",
+        "score": 0.5242938995361328
+      },
+      {
+        "name": "Amusement",
+        "score": 0.47754788398742676
+      }
+    ]
+  },
+  {
+    "file": "Neutral/44.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.4634574353694916
+      },
+      {
+        "name": "Confusion",
+        "score": 0.45656752586364746
+      },
+      {
+        "name": "Concentration",
+        "score": 0.42343801259994507
+      }
+    ]
+  },
+  {
+    "file": "Neutral/65.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.46642807126045227
+      },
+      {
+        "name": "Amusement",
+        "score": 0.4367341995239258
+      },
+      {
+        "name": "Joy",
+        "score": 0.39782026410102844
+      }
+    ]
+  },
+  {
+    "file": "Neutral/81.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6763910055160522
+      },
+      {
+        "name": "Tiredness",
+        "score": 0.5431175827980042
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4527672827243805
+      }
+    ]
+  },
+  {
+    "file": "Neutral/75.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4215974509716034
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.4196425974369049
+      },
+      {
+        "name": "Calmness",
+        "score": 0.41109567880630493
+      }
+    ]
+  },
+  {
+    "file": "Neutral/101.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.606994092464447
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5029283761978149
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4514186978340149
+      }
+    ]
+  },
+  {
+    "file": "Neutral/82.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6926895380020142
+      },
+      {
+        "name": "Interest",
+        "score": 0.5046026110649109
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4054681956768036
+      }
+    ]
+  },
+  {
+    "file": "Neutral/99.png",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.4657866060733795
+      },
+      {
+        "name": "Calmness",
+        "score": 0.3638641834259033
+      },
+      {
+        "name": "Concentration",
+        "score": 0.35633641481399536
+      }
+    ]
+  },
+  {
+    "file": "Neutral/36.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5601462125778198
+      },
+      {
+        "name": "Interest",
+        "score": 0.501039981842041
+      },
+      {
+        "name": "Concentration",
+        "score": 0.395326167345047
+      }
+    ]
+  },
+  {
+    "file": "Neutral/72.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.6200584769248962
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4823315441608429
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4644509255886078
+      }
+    ]
+  },
+  {
+    "file": "Neutral/38.png",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/38.png"
+  },
+  {
+    "file": "Neutral/103.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.635312557220459
+      },
+      {
+        "name": "Doubt",
+        "score": 0.3928149938583374
+      },
+      {
+        "name": "Disgust",
+        "score": 0.3148028254508972
+      }
+    ]
+  },
+  {
+    "file": "Neutral/28.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.4940768778324127
+      },
+      {
+        "name": "Concentration",
+        "score": 0.39297258853912354
+      },
+      {
+        "name": "Interest",
+        "score": 0.37486815452575684
+      }
+    ]
+  },
+  {
+    "file": "Neutral/43.png",
+    "top_emotions": [
+      {
+        "name": "Calmness",
+        "score": 0.5783935189247131
+      },
+      {
+        "name": "Interest",
+        "score": 0.4172120690345764
+      },
+      {
+        "name": "Concentration",
+        "score": 0.39884671568870544
+      }
+    ]
+  },
+  {
+    "file": "Neutral/66.png",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/66.png"
+  },
+  {
+    "file": "Neutral/13.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4991619288921356
+      },
+      {
+        "name": "Concentration",
+        "score": 0.46380797028541565
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4029797315597534
+      }
+    ]
+  },
+  {
+    "file": "Neutral/107.jpg",
+    "top_emotions": [
+      {
+        "name": "Boredom",
+        "score": 0.6227474212646484
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5876272916793823
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5826127529144287
+      }
+    ]
+  },
+  {
+    "file": "Neutral/109.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.526933491230011
+      },
+      {
+        "name": "Calmness",
+        "score": 0.4915585219860077
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4025637209415436
+      }
+    ]
+  },
+  {
+    "file": "Neutral/91.png",
+    "top_emotions": [
+      {
+        "name": "Amusement",
+        "score": 0.543562114238739
+      },
+      {
+        "name": "Interest",
+        "score": 0.4825325012207031
+      },
+      {
+        "name": "Joy",
+        "score": 0.46713054180145264
+      }
+    ]
+  },
+  {
+    "file": "Neutral/52.png",
+    "top_emotions": [],
+    "error_message": "Issue with image: Neutral/52.png"
+  },
+  {
+    "file": "Neutral/35.png",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.6118995547294617
+      },
+      {
+        "name": "Confusion",
+        "score": 0.5259050726890564
+      },
+      {
+        "name": "Calmness",
+        "score": 0.46690794825553894
+      }
+    ]
+  },
+  {
+    "file": "Neutral/18.png",
+    "top_emotions": [
+      {
+        "name": "Amusement",
+        "score": 0.515869140625
+      },
+      {
+        "name": "Joy",
+        "score": 0.5156053304672241
+      },
+      {
+        "name": "Interest",
+        "score": 0.5139594078063965
+      }
+    ]
+  },
+  {
+    "file": "Neutral/76.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6122966408729553
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4607442319393158
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4198518395423889
+      }
+    ]
+  },
+  {
+    "file": "Neutral/17.png",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6303955912590027
+      },
+      {
+        "name": "Doubt",
+        "score": 0.48592445254325867
+      },
+      {
+        "name": "Concentration",
+        "score": 0.34223324060440063
+      }
+    ]
+  },
+  {
+    "file": "Neutral/111.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.4811963140964508
+      },
+      {
+        "name": "Interest",
+        "score": 0.4292358458042145
+      },
+      {
+        "name": "Calmness",
+        "score": 0.3759170472621918
+      }
+    ]
+  }
+]

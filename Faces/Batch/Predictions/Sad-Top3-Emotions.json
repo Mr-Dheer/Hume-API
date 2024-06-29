@@ -1,0 +1,1132 @@
+[
+  {
+    "file": "Sad/62.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4589110314846039
+      },
+      {
+        "name": "Fear",
+        "score": 0.3233499228954315
+      },
+      {
+        "name": "Doubt",
+        "score": 0.317198783159256
+      }
+    ]
+  },
+  {
+    "file": "Sad/44.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.5116786956787109
+      },
+      {
+        "name": "Distress",
+        "score": 0.4359663426876068
+      },
+      {
+        "name": "Anger",
+        "score": 0.3455471694469452
+      }
+    ]
+  },
+  {
+    "file": "Sad/7.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.8524248003959656
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5516532063484192
+      },
+      {
+        "name": "Distress",
+        "score": 0.4908919632434845
+      }
+    ]
+  },
+  {
+    "file": "Sad/31.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Sad/31.jpg"
+  },
+  {
+    "file": "Sad/15.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.3809995651245117
+      },
+      {
+        "name": "Distress",
+        "score": 0.346076637506485
+      },
+      {
+        "name": "Disgust",
+        "score": 0.32415369153022766
+      }
+    ]
+  },
+  {
+    "file": "Sad/29.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.8575474619865417
+      },
+      {
+        "name": "Doubt",
+        "score": 0.5324565768241882
+      },
+      {
+        "name": "Distress",
+        "score": 0.3047987222671509
+      }
+    ]
+  },
+  {
+    "file": "Sad/38.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.6767436265945435
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5450236797332764
+      },
+      {
+        "name": "Distress",
+        "score": 0.4587104618549347
+      }
+    ]
+  },
+  {
+    "file": "Sad/30.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Sad/30.jpg"
+  },
+  {
+    "file": "Sad/69.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.7684895396232605
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5297890901565552
+      },
+      {
+        "name": "Distress",
+        "score": 0.4807172119617462
+      }
+    ]
+  },
+  {
+    "file": "Sad/48.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.810665488243103
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5725517868995667
+      },
+      {
+        "name": "Distress",
+        "score": 0.45010045170783997
+      }
+    ]
+  },
+  {
+    "file": "Sad/67.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.8285884261131287
+      },
+      {
+        "name": "Distress",
+        "score": 0.7722892165184021
+      },
+      {
+        "name": "Sadness",
+        "score": 0.7058127522468567
+      }
+    ]
+  },
+  {
+    "file": "Sad/4.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5541665554046631
+      },
+      {
+        "name": "Concentration",
+        "score": 0.502086877822876
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4196886420249939
+      }
+    ]
+  },
+  {
+    "file": "Sad/46.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.8330121636390686
+      },
+      {
+        "name": "Sadness",
+        "score": 0.6829644441604614
+      },
+      {
+        "name": "Distress",
+        "score": 0.49828040599823
+      }
+    ]
+  },
+  {
+    "file": "Sad/34.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.6481443047523499
+      },
+      {
+        "name": "Pain",
+        "score": 0.4527660310268402
+      },
+      {
+        "name": "Distress",
+        "score": 0.38798490166664124
+      }
+    ]
+  },
+  {
+    "file": "Sad/58.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.5995252132415771
+      },
+      {
+        "name": "Pain",
+        "score": 0.3996211290359497
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.3711722493171692
+      }
+    ]
+  },
+  {
+    "file": "Sad/2.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.639258623123169
+      },
+      {
+        "name": "Pain",
+        "score": 0.4979005753993988
+      },
+      {
+        "name": "Confusion",
+        "score": 0.4164417088031769
+      }
+    ]
+  },
+  {
+    "file": "Sad/39.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5841869711875916
+      },
+      {
+        "name": "Sadness",
+        "score": 0.4983818829059601
+      },
+      {
+        "name": "Pain",
+        "score": 0.43176424503326416
+      }
+    ]
+  },
+  {
+    "file": "Sad/43.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5447942614555359
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.4824215769767761
+      },
+      {
+        "name": "Calmness",
+        "score": 0.44722893834114075
+      }
+    ]
+  },
+  {
+    "file": "Sad/35.jpg",
+    "top_emotions": [
+      {
+        "name": "Boredom",
+        "score": 0.6329741477966309
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5460211038589478
+      },
+      {
+        "name": "Calmness",
+        "score": 0.5389867424964905
+      }
+    ]
+  },
+  {
+    "file": "Sad/13.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4425364136695862
+      },
+      {
+        "name": "Sadness",
+        "score": 0.41803473234176636
+      },
+      {
+        "name": "Boredom",
+        "score": 0.3975568115711212
+      }
+    ]
+  },
+  {
+    "file": "Sad/40.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.8638975024223328
+      },
+      {
+        "name": "Sadness",
+        "score": 0.8553909659385681
+      },
+      {
+        "name": "Distress",
+        "score": 0.520577073097229
+      }
+    ]
+  },
+  {
+    "file": "Sad/68.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.5546591281890869
+      },
+      {
+        "name": "Pain",
+        "score": 0.4512459337711334
+      },
+      {
+        "name": "Confusion",
+        "score": 0.395206093788147
+      }
+    ]
+  },
+  {
+    "file": "Sad/37.jpg",
+    "top_emotions": [
+      {
+        "name": "Amusement",
+        "score": 0.5093014240264893
+      },
+      {
+        "name": "Joy",
+        "score": 0.4881111681461334
+      },
+      {
+        "name": "Excitement",
+        "score": 0.3918271064758301
+      }
+    ]
+  },
+  {
+    "file": "Sad/66.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5649099946022034
+      },
+      {
+        "name": "Concentration",
+        "score": 0.47032731771469116
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4248739182949066
+      }
+    ]
+  },
+  {
+    "file": "Sad/53.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.6738792657852173
+      },
+      {
+        "name": "Sadness",
+        "score": 0.6040000915527344
+      },
+      {
+        "name": "Distress",
+        "score": 0.4664202332496643
+      }
+    ]
+  },
+  {
+    "file": "Sad/52.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Sad/52.jpg"
+  },
+  {
+    "file": "Sad/63.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.4572707414627075
+      },
+      {
+        "name": "Doubt",
+        "score": 0.3686457574367523
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.3630048334598541
+      }
+    ]
+  },
+  {
+    "file": "Sad/20.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Sad/20.jpg"
+  },
+  {
+    "file": "Sad/59.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6987542510032654
+      },
+      {
+        "name": "Doubt",
+        "score": 0.4631543457508087
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.37509414553642273
+      }
+    ]
+  },
+  {
+    "file": "Sad/42.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.7782464623451233
+      },
+      {
+        "name": "Pain",
+        "score": 0.6131319999694824
+      },
+      {
+        "name": "Distress",
+        "score": 0.4567745625972748
+      }
+    ]
+  },
+  {
+    "file": "Sad/3.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6820947527885437
+      },
+      {
+        "name": "Doubt",
+        "score": 0.42816802859306335
+      },
+      {
+        "name": "Sadness",
+        "score": 0.3733852207660675
+      }
+    ]
+  },
+  {
+    "file": "Sad/21.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.6068375110626221
+      },
+      {
+        "name": "Fear",
+        "score": 0.4561171233654022
+      },
+      {
+        "name": "Distress",
+        "score": 0.4285496473312378
+      }
+    ]
+  },
+  {
+    "file": "Sad/33.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.5467839241027832
+      },
+      {
+        "name": "Fear",
+        "score": 0.5014433860778809
+      },
+      {
+        "name": "Distress",
+        "score": 0.422096312046051
+      }
+    ]
+  },
+  {
+    "file": "Sad/12.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.8345247507095337
+      },
+      {
+        "name": "Sadness",
+        "score": 0.754764199256897
+      },
+      {
+        "name": "Distress",
+        "score": 0.5013200640678406
+      }
+    ]
+  },
+  {
+    "file": "Sad/45.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.5261115431785583
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5226451754570007
+      },
+      {
+        "name": "Distress",
+        "score": 0.41802871227264404
+      }
+    ]
+  },
+  {
+    "file": "Sad/36.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.5313807725906372
+      },
+      {
+        "name": "Pain",
+        "score": 0.49042391777038574
+      },
+      {
+        "name": "Distress",
+        "score": 0.38775795698165894
+      }
+    ]
+  },
+  {
+    "file": "Sad/14.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5995137095451355
+      },
+      {
+        "name": "Boredom",
+        "score": 0.4762193560600281
+      },
+      {
+        "name": "Calmness",
+        "score": 0.42348334193229675
+      }
+    ]
+  },
+  {
+    "file": "Sad/19.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.7943759560585022
+      },
+      {
+        "name": "Sadness",
+        "score": 0.7595496773719788
+      },
+      {
+        "name": "Distress",
+        "score": 0.4994908273220062
+      }
+    ]
+  },
+  {
+    "file": "Sad/61.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.5305232405662537
+      },
+      {
+        "name": "Distress",
+        "score": 0.44467994570732117
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4321213662624359
+      }
+    ]
+  },
+  {
+    "file": "Sad/17.jpg",
+    "top_emotions": [],
+    "error_message": "Issue with image: Sad/17.jpg"
+  },
+  {
+    "file": "Sad/49.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.8491091132164001
+      },
+      {
+        "name": "Pain",
+        "score": 0.6305329203605652
+      },
+      {
+        "name": "Distress",
+        "score": 0.42732951045036316
+      }
+    ]
+  },
+  {
+    "file": "Sad/24.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.8592185974121094
+      },
+      {
+        "name": "Sadness",
+        "score": 0.595285177230835
+      },
+      {
+        "name": "Distress",
+        "score": 0.4903927743434906
+      }
+    ]
+  },
+  {
+    "file": "Sad/25.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4796299636363983
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4356454610824585
+      },
+      {
+        "name": "Doubt",
+        "score": 0.41671299934387207
+      }
+    ]
+  },
+  {
+    "file": "Sad/16.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5623548626899719
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5599245429039001
+      },
+      {
+        "name": "Concentration",
+        "score": 0.5575257539749146
+      }
+    ]
+  },
+  {
+    "file": "Sad/11.jpg",
+    "top_emotions": [
+      {
+        "name": "Boredom",
+        "score": 0.5301589369773865
+      },
+      {
+        "name": "Confusion",
+        "score": 0.4837513864040375
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4566519260406494
+      }
+    ]
+  },
+  {
+    "file": "Sad/70.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.7671511173248291
+      },
+      {
+        "name": "Sadness",
+        "score": 0.7328620553016663
+      },
+      {
+        "name": "Distress",
+        "score": 0.5004459619522095
+      }
+    ]
+  },
+  {
+    "file": "Sad/6.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4886787533760071
+      },
+      {
+        "name": "Sadness",
+        "score": 0.3700086176395416
+      },
+      {
+        "name": "Doubt",
+        "score": 0.34787291288375854
+      }
+    ]
+  },
+  {
+    "file": "Sad/18.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.4444838762283325
+      },
+      {
+        "name": "Confusion",
+        "score": 0.3981756269931793
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.3901555836200714
+      }
+    ]
+  },
+  {
+    "file": "Sad/26.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.49206772446632385
+      },
+      {
+        "name": "Confusion",
+        "score": 0.4704696834087372
+      },
+      {
+        "name": "Distress",
+        "score": 0.40629276633262634
+      }
+    ]
+  },
+  {
+    "file": "Sad/54.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.5963960886001587
+      },
+      {
+        "name": "Sadness",
+        "score": 0.43632644414901733
+      },
+      {
+        "name": "Distress",
+        "score": 0.3892344534397125
+      }
+    ]
+  },
+  {
+    "file": "Sad/9.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.6784594058990479
+      },
+      {
+        "name": "Doubt",
+        "score": 0.393362820148468
+      },
+      {
+        "name": "Concentration",
+        "score": 0.2857684791088104
+      }
+    ]
+  },
+  {
+    "file": "Sad/56.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.7235701680183411
+      },
+      {
+        "name": "Sadness",
+        "score": 0.512831449508667
+      },
+      {
+        "name": "Fear",
+        "score": 0.4653085768222809
+      }
+    ]
+  },
+  {
+    "file": "Sad/51.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.5543301105499268
+      },
+      {
+        "name": "Confusion",
+        "score": 0.5096806287765503
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.40509703755378723
+      }
+    ]
+  },
+  {
+    "file": "Sad/28.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.8768481016159058
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.6187023520469666
+      },
+      {
+        "name": "Pain",
+        "score": 0.41757088899612427
+      }
+    ]
+  },
+  {
+    "file": "Sad/27.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5945797562599182
+      },
+      {
+        "name": "Doubt",
+        "score": 0.46397286653518677
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4128885865211487
+      }
+    ]
+  },
+  {
+    "file": "Sad/64.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5175448656082153
+      },
+      {
+        "name": "Boredom",
+        "score": 0.46145644783973694
+      },
+      {
+        "name": "Calmness",
+        "score": 0.40115970373153687
+      }
+    ]
+  },
+  {
+    "file": "Sad/8.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.4745555520057678
+      },
+      {
+        "name": "Disgust",
+        "score": 0.3935525417327881
+      },
+      {
+        "name": "Distress",
+        "score": 0.37952953577041626
+      }
+    ]
+  },
+  {
+    "file": "Sad/55.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.5382768511772156
+      },
+      {
+        "name": "Sadness",
+        "score": 0.4421543776988983
+      },
+      {
+        "name": "Distress",
+        "score": 0.4387561082839966
+      }
+    ]
+  },
+  {
+    "file": "Sad/65.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 1.0639859437942505
+      },
+      {
+        "name": "Pain",
+        "score": 0.7681849598884583
+      },
+      {
+        "name": "Distress",
+        "score": 0.48875704407691956
+      }
+    ]
+  },
+  {
+    "file": "Sad/23.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.7530543804168701
+      },
+      {
+        "name": "Doubt",
+        "score": 0.5509671568870544
+      },
+      {
+        "name": "Concentration",
+        "score": 0.4757356643676758
+      }
+    ]
+  },
+  {
+    "file": "Sad/60.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.6490827798843384
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5046203136444092
+      },
+      {
+        "name": "Distress",
+        "score": 0.45310917496681213
+      }
+    ]
+  },
+  {
+    "file": "Sad/50.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.7684895396232605
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5297890901565552
+      },
+      {
+        "name": "Distress",
+        "score": 0.4807172119617462
+      }
+    ]
+  },
+  {
+    "file": "Sad/5.jpg",
+    "top_emotions": [
+      {
+        "name": "Distress",
+        "score": 0.3926083743572235
+      },
+      {
+        "name": "Amusement",
+        "score": 0.3344949185848236
+      },
+      {
+        "name": "Disappointment",
+        "score": 0.33444133400917053
+      }
+    ]
+  },
+  {
+    "file": "Sad/57.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 1.0172914266586304
+      },
+      {
+        "name": "Pain",
+        "score": 0.7567921280860901
+      },
+      {
+        "name": "Distress",
+        "score": 0.632209062576294
+      }
+    ]
+  },
+  {
+    "file": "Sad/10.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.9113102555274963
+      },
+      {
+        "name": "Sadness",
+        "score": 0.8097183108329773
+      },
+      {
+        "name": "Distress",
+        "score": 0.5464689135551453
+      }
+    ]
+  },
+  {
+    "file": "Sad/32.jpg",
+    "top_emotions": [
+      {
+        "name": "Interest",
+        "score": 0.4279458820819855
+      },
+      {
+        "name": "Amusement",
+        "score": 0.3549548387527466
+      },
+      {
+        "name": "Awkwardness",
+        "score": 0.3508188724517822
+      }
+    ]
+  },
+  {
+    "file": "Sad/22.jpg",
+    "top_emotions": [
+      {
+        "name": "Confusion",
+        "score": 0.5240709185600281
+      },
+      {
+        "name": "Sadness",
+        "score": 0.47722744941711426
+      },
+      {
+        "name": "Distress",
+        "score": 0.3951857089996338
+      }
+    ]
+  },
+  {
+    "file": "Sad/41.jpg",
+    "top_emotions": [
+      {
+        "name": "Sadness",
+        "score": 0.739706814289093
+      },
+      {
+        "name": "Pain",
+        "score": 0.6233776807785034
+      },
+      {
+        "name": "Distress",
+        "score": 0.46626147627830505
+      }
+    ]
+  },
+  {
+    "file": "Sad/1.jpg",
+    "top_emotions": [
+      {
+        "name": "Concentration",
+        "score": 0.5477213263511658
+      },
+      {
+        "name": "Boredom",
+        "score": 0.5381346344947815
+      },
+      {
+        "name": "Calmness",
+        "score": 0.4841035306453705
+      }
+    ]
+  },
+  {
+    "file": "Sad/47.jpg",
+    "top_emotions": [
+      {
+        "name": "Pain",
+        "score": 0.6825109124183655
+      },
+      {
+        "name": "Sadness",
+        "score": 0.5072875618934631
+      },
+      {
+        "name": "Distress",
+        "score": 0.451898455619812
+      }
+    ]
+  }
+]
