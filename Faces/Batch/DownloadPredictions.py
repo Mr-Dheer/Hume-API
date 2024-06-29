@@ -4,7 +4,7 @@ from hume.models.config import FaceConfig
 
 client = HumeBatchClient('nvfkalYcOQpX7gElUYAGjpAbHyLvVzQSGJRupal2cCGTMrSj')
 file_path=[
-    'AngryCorrectDataSet.zip'
+    'NeutralDataSet.zip'
 ]
 config = FaceConfig()
 job = client.submit_job(None, [config], files=file_path)
@@ -13,13 +13,13 @@ print(job)
 print('Mein Bhaag Raha Hun Ruko Zara')
 
 details= job.await_complete()
-job.download_predictions('PredictionsCorrectDataSet.json')
-print('PredictionsCorrectDataSet Downloaded')
+job.download_predictions('NautralDataPredictions.json')
+print('Happy Data Predictions Downloaded')
 
 
 
 # Load the JSON data
-file_path = 'PredictionsCorrectDataSet.json'
+file_path = 'NautralDataPredictions.json'
 with open(file_path, 'r') as file:
     data = json.load(file)
 
@@ -61,7 +61,7 @@ for prediction in data[0]['results']['predictions']:
     results.append(prediction_result)
 
 # Write results to a new JSON file
-output_file_path = 'AakhriHai-2.json'
+output_file_path = 'Neutral-Top3-Emotions.json'
 with open(output_file_path, 'w') as output_file:
     json.dump(results, output_file, indent=2)
 
