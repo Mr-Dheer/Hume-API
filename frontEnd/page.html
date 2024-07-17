@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #414141;
+            text-align: center;
+            color: whitesmoke;
+        }
+
+        #videoElement {
+            width: 500px;
+            height: 375px;
+            background-color: #666;
+        }
+
+        #container {
+            margin: 0px auto;
+            width: 500px;
+            height: 375px;
+            border: 10px #333 solid;
+        }
+
+        #canvas {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Movie Recommender System</h1>
+    <div id='container'>
+        <video autoplay="true" id="videoElement"></video>
+    </div>
+    <button id="stopButton">Stop Camera</button>
+    <button id="takePhotoButton">Take Photo</button>
+    <canvas id="canvas" width="500" height="375"></canvas>
+    <img id="photo" alt="Photo will appear here">
+
+    <script>
+        var video = document.querySelector("#videoElement");
+
+        if (navigator.mediaDevices.getUserMedia) {
+            navigator.mediaDevices.getUserMedia({ video: true })
+                .then(function (stream) {
+                    video.srcObject = stream;
+                })
+                .catch(function (error) {
+                    console.log("Something went wrong!", error);
+                });
+        }
+
+        function stop() {
+            var stream = video.srcObject;
+            var tracks = stream.getTracks();
+
+            for (var i = 0; i < tracks.length; i++) {
+                var track = tracks[i];
+                track.stop();
+            }
+
+            video.srcObject = null;
+        }
+
+        function takePhoto() {
+            var canvas = document.getElementById('canvas');
+            var context = canvas.getContext('2d');
+            context.drawImage(video, 0, 0, canvas.width, canvas.height);
+            var dataURL = canvas.toDataURL('image/png');
+            document.getElementById('photo').src = dataURL;
+        }
+
+        document.getElementById('stopButton').addEventListener('click', stop);
+        document.getElementById('takePhotoButton').addEventListener('click', takePhoto);
+    </script>
+</body>
+
+</html>
