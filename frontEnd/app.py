@@ -76,7 +76,7 @@ if img_file_buffer is not None:
             for emotion in result['top_emotions']:
                 detected_emotion = emotion['name']
                 detected_emotion_score = emotion['score']
-                st.write(f"Emotion - {emotion['name']}")
+                st.write(f"Emotion - :red[{emotion['name']}]")
                 st.write(f"Score - {emotion['score']}")
 
     # Write results to a new JSON file (optional)
@@ -103,7 +103,7 @@ if img_file_buffer is not None:
 
     # Example usage:
     category = map_emotion_to_category(detected_emotion)
-    st.write(f"The detected emotion '{detected_emotion}' falls under the category: {category}")
+    st.write(f"The detected emotion :red['{detected_emotion}'] falls under the category: :red[{category}]")
 
     def recommend(movie, similarity_matrix, df):
         if movie:  # Check if movie name is provided
@@ -139,7 +139,7 @@ if img_file_buffer is not None:
             df_emotion = df_sad
 
         get_random_movie = df_emotion['title'].sample(n=5, random_state=42)
-        st.write('Randomly Chosen Movies')
+        st.write(f'Randomly Chosen Movies based on :red[{emotion}]')
 
         for i in get_random_movie:
             st.write("- " + i)
