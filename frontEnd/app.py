@@ -120,7 +120,7 @@ if img_file_buffer is not None:
 
     def main(emotion):
         if emotion not in ['happy', 'sad', 'angry', 'neutral']:
-            return 
+            return st.error('Emotion not able to detect')
 
         if emotion == 'happy':
             similarity_matrix = similarity_happy
