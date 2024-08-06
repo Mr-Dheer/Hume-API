@@ -1,3 +1,4 @@
+import nbimporter
 import streamlit as st
 import pickle
 import pandas as pd
@@ -5,6 +6,12 @@ from hume import HumeBatchClient
 from hume.models.config import FaceConfig
 import json
 import requests
+import time
+
+
+#! Imported tmdb-api functions from another notebook
+from tmdb_api import *
+
 
 # Load DataFrame
 df_happy = pickle.load(open('df_happy.pkl', 'rb'))
@@ -19,6 +26,9 @@ similarity_sad = pickle.load(open('similarity_sad.pkl', 'rb'))
 similarity_neutral = pickle.load(open('similarity_neutral.pkl', 'rb'))
 
 st.title('Movie Recommender System')
+
+
+
 
 # Initialize Hume API
 client = HumeBatchClient('nvfkalYcOQpX7gElUYAGjpAbHyLvVzQSGJRupal2cCGTMrSj')
@@ -69,15 +79,17 @@ if img_file_buffer is not None:
 
     # Display the results
     for result in results:
-        st.write(f"Name of the file is - {result['file']}")
+        #! Name of the file - Image
+        # st.write(f"Name of the file is - {result['file']}")
         if 'error_message' in result:
             st.write(result['error_message'])
         else:
             for emotion in result['top_emotions']:
                 detected_emotion = emotion['name']
                 detected_emotion_score = emotion['score']
-                st.write(f"Emotion - :red[{emotion['name']}]")
-                st.write(f"Score - {emotion['score']}")
+                #! Name of the emotion and the Score
+                # st.subheader(f"It seems like the Emtion you are feeling is -  :red[{emotion['name']}]")
+                # st.subheader(f"I can say this with - :red[{emotion['score']* 100:.0f}%] accuracy ")
 
     # Write results to a new JSON file (optional)
     output_file_path = 'captured_image_top_emotions.json'
@@ -103,7 +115,8 @@ if img_file_buffer is not None:
 
     # Example usage:
     category = map_emotion_to_category(detected_emotion)
-    st.write(f"The detected emotion :red['{detected_emotion}'] falls under the category: :red[{category}]")
+    #! Name of emotion categorty it falls in 
+    # st.write(f"The detected emotion :red['{detected_emotion}'] falls under the category: :red[{category}]")
 
     def recommend(movie, similarity_matrix, df):
         if movie:  # Check if movie name is provided
@@ -113,8 +126,50 @@ if img_file_buffer is not None:
 
                 for i in distances[1:6]:
                     recommended_movie = df.iloc[i[0]].title
+                    movie_id = df.iloc[i[0]].movie_id
+                    # st.write(recommended_movie)
                     similarity_score = i[1]
-                    st.subheader(f"{recommended_movie} (Cosine Similarity: {similarity_score:.3f})")
+                    st.subheader(f"{recommended_movie}")
+                    overview_movie = overview(movie_id)
+                    trailer_movie = trailer(movie_id)
+                    poster_movie = poster(movie_id)
+                    review_movie = reviews(movie_id)
+                    details_movie = detailsMovie(movie_id)
+
+                    column1, column2 = st.columns([4,9])
+
+                    with column1:
+                        # st.write(overview_movie)
+                        st.image(poster_movie)
+                    with column2:
+                        st.link_button('Trailer', trailer_movie)
+                        
+                        with st.expander('Movie Details'):
+                            # Define columns for better spacing
+                            col1, col2 = st.columns([1, 3])
+                            
+                            for i, detail in enumerate(details_movie):
+                                with col1:
+                                    st.markdown(f"**{list(detail.keys())[0]}:**")  # Key (only one per dictionary)
+                                    if i< len(details_movie) -1 :
+                                        st.markdown('---') 
+                                with col2:
+                                    st.markdown(f"   {list(detail.values())[0]}")  # Value (only one per dictionary)
+                                    if i< len(details_movie) -1 :
+                                        st.markdown('---')  # Adds a horizontal line for separation
+
+                                
+                        with st.expander('Overview'):
+                            st.write(overview_movie)
+                        with st.expander('Review'):
+                            for index, i in enumerate(review_movie):
+                                st.markdown(f"### Review {index + 1}")
+                                st.write(i)
+                            st.markdown("---")  # Adds a horizontal line between reviews
+
+
+                    #! To get the cosine similarity
+                    # st.subheader(f"{recommended_movie} (Cosine Similarity: {similarity_score:.3f})")
             except IndexError:
                 st.error("Movie not found in the database. Please enter a valid movie name.")  
 
@@ -139,12 +194,21 @@ if img_file_buffer is not None:
             df_emotion = df_sad
 
         get_random_movie = df_emotion['title'].sample(n=5, random_state=42)
-        st.write(f'Randomly Chosen Movies based on :red[{emotion}]')
+        st.subheader(f'These are some of the movies you might like based on :red[{emotion}] emotion you are feeling')
 
+        
+        selected_movie = None
         for i in get_random_movie:
-            st.write("- " + i)
+            if st.button(i):
+                selected_movie = i
+                st.write(f'You selected: {selected_movie}')
+        #! Display random movies 
+        # for i in get_random_movie:
+        #     st.write("- " + i)
+        
+        st.subheader('You can also search for the movies I can make Recommendations based on that')
 
-        Random_movie = st.selectbox('Enter or choose a Movie', df_emotion['title'], index=None)
+        Random_movie = st.selectbox('Enter or Choose a Movie', df_emotion['title'], index=None)
 
         if Random_movie:  # Check if movie name is provided
             st.write(f"Selected movie: {Random_movie}")
